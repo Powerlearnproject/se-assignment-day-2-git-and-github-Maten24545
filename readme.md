@@ -132,7 +132,7 @@ A **pull request (PR)** is a proposal to merge changes from one branch into anot
 - Tracks discussions around code
 - Ensures team consensus before merging
 
--
+---
 
 ### 8. Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
 
